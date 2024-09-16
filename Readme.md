@@ -9,4 +9,4 @@ make
 ```
 
 ## Credits
-Initial version based on Tsoding [video tutorial](https://www.youtube.com/watch?v=gCVMkKgs3uQ)
+Initial version based on this [video tutorial](https://www.youtube.com/watch?v=gCVMkKgs3uQ) from Tsoding
